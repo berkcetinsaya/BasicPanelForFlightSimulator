@@ -15,3 +15,5 @@ I control things below:
 - Wheel light
 - Auto brake
 - Gears
+
+![](IMG_4935.jpg)
